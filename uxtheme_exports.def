@@ -1,0 +1,200 @@
+LIBRARY uxtheme
+EXPORTS
+    BeginBufferedAnimation
+    BeginBufferedPaint
+    BeginPanningFeedback
+    BufferedPaintClear
+    BufferedPaintInit
+    BufferedPaintRenderAnimation
+    BufferedPaintSetAlpha
+    BufferedPaintStopAllAnimations
+    BufferedPaintUnInit
+    CloseThemeData
+    DllCanUnloadNow
+    DllGetActivationFactory
+    DllGetClassObject
+    DrawThemeBackground
+    DrawThemeBackgroundEx
+    DrawThemeEdge
+    DrawThemeIcon
+    DrawThemeParentBackground
+    DrawThemeParentBackgroundEx
+    DrawThemeText
+    DrawThemeTextEx
+    EnableThemeDialogTexture
+    EnableTheming
+    EndBufferedAnimation
+    EndBufferedPaint
+    EndPanningFeedback
+    GetBufferedPaintBits
+    GetBufferedPaintDC
+    GetBufferedPaintTargetDC
+    GetBufferedPaintTargetRect
+    GetColorFromPreference
+    GetCurrentThemeName
+    GetImmersiveColorFromColorSetEx
+    GetImmersiveUserColorSetPreference
+    GetThemeAnimationProperty
+    GetThemeAnimationTransform
+    GetThemeAppProperties
+    GetThemeBackgroundContentRect
+    GetThemeBackgroundExtent
+    GetThemeBackgroundRegion
+    GetThemeBitmap
+    GetThemeBool
+    GetThemeColor
+    GetThemeDocumentationProperty
+    GetThemeEnumValue
+    GetThemeFilename
+    GetThemeFont
+    GetThemeInt
+    GetThemeIntList
+    GetThemeMargins
+    GetThemeMetric
+    GetThemePartSize
+    GetThemePosition
+    GetThemePropertyOrigin
+    GetThemeRect
+    GetThemeStream
+    GetThemeString
+    GetThemeSysBool
+    GetThemeSysColor
+    GetThemeSysColorBrush
+    GetThemeSysFont
+    GetThemeSysInt
+    GetThemeSysSize
+    GetThemeSysString
+    GetThemeTextExtent
+    GetThemeTextMetrics
+    GetThemeTimingFunction
+    GetThemeTransitionDuration
+    GetUserColorPreference
+    GetWindowTheme
+    HitTestThemeBackground
+    IsAppThemed
+    IsCompositionActive
+    IsThemeActive
+    IsThemeBackgroundPartiallyTransparent
+    IsThemeDialogTextureEnabled
+    IsThemePartDefined
+    OpenThemeData
+    OpenThemeDataEx
+    OpenThemeDataForDpi
+    SetThemeAppProperties
+    SetWindowTheme
+    SetWindowThemeAttribute
+    ThemeInitApiHook
+    UpdatePanningFeedback
+    ord_1 @1
+    ord_2 @2
+    ord_3 @3
+    ord_4 @4
+    ord_7 @7
+    ord_8 @8
+    ord_9 @9
+    ord_10 @10
+    ord_11 @11
+    ord_13 @13
+    ord_14 @14
+    ord_15 @15
+    ord_16 @16
+    ord_17 @17
+    ord_18 @18
+    ord_19 @19
+    ord_20 @20
+    ord_21 @21
+    ord_22 @22
+    ord_23 @23
+    ord_24 @24
+    ord_25 @25
+    ord_26 @26
+    ord_27 @27
+    ord_28 @28
+    ord_29 @29
+    ord_30 @30
+    ord_31 @31
+    ord_32 @32
+    ord_33 @33
+    ord_34 @34
+    ord_35 @35
+    ord_36 @36
+    ord_43 @43
+    ord_44 @44
+    ord_45 @45
+    ord_46 @46
+    ord_48 @48
+    ord_49 @49
+    ord_50 @50
+    ord_60 @60
+    ord_62 @62
+    ord_63 @63
+    ord_64 @64
+    ord_65 @65
+    ord_66 @66
+    ord_67 @67
+    ord_68 @68
+    ord_69 @69
+    ord_72 @72
+    ord_73 @73
+    ord_74 @74
+    ord_75 @75
+    ord_76 @76
+    ord_77 @77
+    ord_78 @78
+    ord_79 @79
+    ord_80 @80
+    ord_81 @81
+    ord_82 @82
+    ord_83 @83
+    ord_84 @84
+    ord_85 @85
+    ord_86 @86
+    ord_87 @87
+    ord_88 @88
+    ord_90 @90
+    ord_91 @91
+    ord_92 @92
+    ord_93 @93
+    ord_94 @94
+    ord_96 @96
+    ord_97 @97
+    ord_99 @99
+    ord_100 @100
+    ord_101 @101
+    ord_102 @102
+    ord_104 @104
+    ord_105 @105
+    ord_106 @106
+    ord_107 @107
+    ord_108 @108
+    ord_109 @109
+    ord_110 @110
+    ord_111 @111
+    ord_112 @112
+    ord_113 @113
+    ord_115 @115
+    ord_116 @116
+    ord_117 @117
+    ord_118 @118
+    ord_119 @119
+    ord_122 @122
+    ord_123 @123
+    ord_124 @124
+    ord_125 @125
+    ord_126 @126
+    ord_127 @127
+    ord_128 @128
+    ord_130 @130
+    ord_131 @131
+    ord_132 @132
+    ord_133 @133
+    ord_135 @135
+    ord_136 @136
+    ord_137 @137
+    ord_138 @138
+    ord_139 @139
+    ord_140 @140
+    ord_141 @141
+    ord_142 @142
+    ord_143 @143
+    ord_144 @144
