@@ -14,10 +14,6 @@ You might see the yellow box flash for a split second on startup. Ignore it.
 
 Splash says cracked by github.com/ofkits1 — click OK and carry on.
 
-## Version
-
-Built for **3.9.23 x64** only. Other builds won't work, don't bother.
-
 ## Files
 
 ```
