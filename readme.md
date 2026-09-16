@@ -1,4 +1,4 @@
-# MediaHuman YouTube Downloader 3.9.23
+# MediaHuman YouTube Downloader
 
 A simple DLL patch that removes download limits and trial restrictions from MediaHuman YouTube Downloader. Just drop the file and run — no install needed.
 
