@@ -33,10 +33,6 @@ uxtheme_all.cpp
 - If registration pops up, hit Cancel.
 - AV might cry about the DLL. False positives happen.
 
-## Source / Rebuild
-
-`uxtheme_all.cpp`
-
 ---
 
 Cracked by **github.com/ofkits1**
